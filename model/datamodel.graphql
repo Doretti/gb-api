@@ -1,0 +1,8 @@
+"""
+@model
+"""
+type TODO {
+  id: ID!
+  text: String!
+  complited: Boolean!
+}
